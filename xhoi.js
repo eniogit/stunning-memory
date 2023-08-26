@@ -1,3 +1,3 @@
+const name1 = prompt("Si quhesh?");
 
-
-alert("Hello world!");
+alert(name1);
