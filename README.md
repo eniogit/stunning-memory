@@ -11,3 +11,8 @@ Erilda
 kejsi
 Mece1git
 Enea Lilo
+JAVASCRIPT DEVELOPER
+
+
+Group member
+New Member
