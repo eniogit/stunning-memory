@@ -1,3 +1,10 @@
 # stunning-memory
-Enio 
+Enio
+Xhoi
+Besjana
+Rudina
+Angelagit
+Enea Lilo
+Boris
+Amine Keta
 Erilda
