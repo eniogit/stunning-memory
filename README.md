@@ -12,7 +12,6 @@ kejsi
 JAVASCRIPT DEVELOPER
 Enea Lilo
 kejsi
-<<<<<<< HEAD
 gitgg
 hoxha
 Ndroqi
