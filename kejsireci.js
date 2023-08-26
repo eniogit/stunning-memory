@@ -1,2 +1,3 @@
-hey
-kejsireci
+function main(){
+    console.log('hello world')
+}
