@@ -2,7 +2,7 @@
 Enio
 Xhoi
 Besjana
-Rudina
+Rudina <3
 Angelagit
 Enea Lilo
 Boris
