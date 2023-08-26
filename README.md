@@ -3,12 +3,13 @@ Enio
 Xhoi
 Besjana
 , Rudina Himallari <3, 
+Prov kot sa per konfliktt * _ *,
 Angelagit
 Enea Lilo
 Boris
 Amine Keta
 Erilda
-kejsi Reci
+kejsi
 Johan
 Enea Lilo
 kejsi
@@ -20,7 +21,6 @@ Johan
 gitgg
 hoxha
 Ndroqi
-Prov kot sa per konfliktt 😍
 inaaaaaa
 , Prov kot sa per konfliktt 😍,
 edhe 1 here se e harroj 
