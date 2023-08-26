@@ -8,15 +8,13 @@ Enea Lilo
 Boris
 Amine Keta
 Erilda
-kejsi
-<<<<<<< HEAD
+kejsi Reci
 Johan
 Enea Lilo
 kejsi
 shume vap
 JAVASCRIPT DEVELOPER
 Enea Lilo
-kejsi
 JAVASCRIPT DEVELOPER
 Johan
 gitgg
@@ -26,3 +24,5 @@ Prov kot sa per konfliktt 😍
 inaaaaaa
 , Prov kot sa per konfliktt 😍,
 edhe 1 here se e harroj 
+kotttt
+
