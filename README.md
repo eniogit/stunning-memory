@@ -14,5 +14,3 @@ Mece1git
 =======
 Enea Lilo
 kejsi
->>>>>>> 9199af8bae895749df16d74a7576a1901dbb4e07
-JAVASCRIPT DEVELOPER
