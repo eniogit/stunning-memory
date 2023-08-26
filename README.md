@@ -8,11 +8,16 @@ Enea Lilo
 Boris
 Amine Keta
 Erilda
-<<<<<<< HEAD
 kejsi
-Mece1git
-=======
+Johan
 Enea Lilo
 kejsi
-
 shume vap
+JAVASCRIPT DEVELOPER
+Enea Lilo
+kejsi
+JAVASCRIPT DEVELOPER
+Johan
+gitgg
+hoxha
+Ndroqi
