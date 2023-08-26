@@ -17,4 +17,4 @@ Johan
 gitgg
 hoxha
 Ndroqi
-Prov kot sa per konfliktt 😍
+, Prov kot sa per konfliktt 😍,
