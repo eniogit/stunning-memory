@@ -9,19 +9,19 @@ Boris
 Amine Keta
 Erilda
 kejsi
-Johan
-Enea Lilo
-kejsi
-=======
-JAVASCRIPT DEVELOPER
-Enea Lilo
-kejsi
 <<<<<<< HEAD
+Johan
+Enea Lilo
+kejsi
+=======
+=======
+>>>>>>> eded84ab64dc4139ae5f0e421e9077cf74175011
+JAVASCRIPT DEVELOPER
+Enea Lilo
+kejsi
 JAVASCRIPT DEVELOPER
 Johan
->>>>>>> 258a41715a46a0ccf493e67c3b6f01a563ef4d55
-=======
 gitgg
 hoxha
 Ndroqi
->>>>>>> cb0478935131479b743e633e7a4a633912db8f3e
+Prov kot sa per konfliktt
