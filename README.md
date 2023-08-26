@@ -18,9 +18,9 @@ Johan
 gitgg
 hoxha
 Ndroqi
-Prov kot sa per konfliktt 😍
+Prov kot sa per konfliktt
 inaaaaaa
-, Prov kot sa per konfliktt 😍,
+, Prov kot sa per konfliktt,
 kotttt
 Nice
 SDA Albania
