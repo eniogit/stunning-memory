@@ -8,11 +8,11 @@ Enea Lilo
 Boris
 Amine Keta
 Erilda
+kejsi Reci
+Johan
 kejsi
-Mece1git
-Enea Lilo
-JAVASCRIPT DEVELOPER
-
-
-Group member
-New Member
+shume vap
+gitgg
+hoxha
+Ndroqi
+inaaaaaa
