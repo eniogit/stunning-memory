@@ -16,9 +16,12 @@ kejsi
 shume vap
 JAVASCRIPT DEVELOPER
 Enea Lilo
-kejsi
 JAVASCRIPT DEVELOPER
 Johan
 gitgg
 hoxha
 Ndroqi
+inaaaaaa
+kotttt
+Nice
+SDA Albania
