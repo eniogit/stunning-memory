@@ -2,11 +2,11 @@
 Enio
 Xhoi
 Besjana Kollcinaku
-, Rudina <3, 
+, Rudina Himallari <3,
 Angelagit
 Enea Lilo
 Boris
-Florina
 Amine Keta
 Erilda
+Enea Lilo
 kejsi
