@@ -1,3 +1,3 @@
 function main () {
-    console.log('Hello,World');
+    console.log('Ditelindja 31-03-1997');
 }
